@@ -2,7 +2,7 @@ class T0910{
   /*
   Java: A Beginner's Guide, 6th Ed.
   Chapter 9 Test 10
-  Improved from TwoDShape and related classes(on page 236 or chapter 7 list 21) 
+  Improved from Chapter 9 Listing 19.
   */
   public static void main(String arg[]){
     Stack s1 = new Stack(5);
